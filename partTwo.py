@@ -2,14 +2,18 @@ import random
 
 secret_number = input(random.randint(1, 10))
 
-if secret_number = int (input( "enter gues") = ("too high"))
+guess = int(input("the corect number from the secret number randomizer")
 
-  print ("too high of a guess ")
 
-if secret_number = int (input( enter guess) = ("too low"))
+guess = number :
 
-  print ( "too low of a guess ")
+   print  ("too high")
 
-if secret_number = int (input( "enter guess") = ( correct naumber))
 
-  print ( "guess is the correct answer")
+guess = number : 
+
+print  ("too low")
+
+guess = number: 
+
+  print  ( correct number)
