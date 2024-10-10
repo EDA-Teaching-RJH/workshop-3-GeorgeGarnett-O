@@ -1,7 +1,10 @@
 age=int("what is your age ?"))
 
-print ("your an adult if age is over 18")
+if age > 18 :
 
-print ( "your a child if age is under 18")
+    print ("your an adult if age is over 18")
 
-main()
+else :
+
+  print ( "your a child if age is under 18")
+
