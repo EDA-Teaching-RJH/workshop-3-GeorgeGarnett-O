@@ -2,18 +2,13 @@ import random
 
 secret_number = input(random.randint(1, 10))
 
-guess = int(input("the corect number from the secret number randomizer")
+guess = int(input("the corect number from the secret number randomizer"))
 
 
-guess = number :
+if guess > secret_number :
 
    print  ("too high")
-
-
-guess = number : 
-
-print  ("too low")
-
-guess = number: 
-
-  print  ( correct number)
+elif guess < secret_number : 
+   print  ("too low")
+elif guess == secret_number: 
+   print  ( "correct number")
