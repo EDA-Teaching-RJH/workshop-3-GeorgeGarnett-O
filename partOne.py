@@ -1,4 +1,4 @@
-age=int("what is your age ?"))
+age=int("what is your age ?")
 
 if age > 18 :
 
